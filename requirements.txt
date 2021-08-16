@@ -1,0 +1,20 @@
+Webpack (imports/exports)
+    Babel
+    Scss
+    Eslint
+    2 Modes:
+        - Dev
+        Dev Server, SourceMaps, Eslint, Not minified JS & CSS
+        - Prod
+        Minified Code
+
+Git
+    Production
+        1.0.0
+    Development
+        1.0.2
+
+
+-- Definition --
+Dev Server - for reload browser window, if code changed (ctrl + s)
+SourceMaps - for debugging (in which file code failed), show not full js file => only direct modules
